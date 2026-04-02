@@ -12,9 +12,9 @@ Email Me 👉 ✉️ **vansh.dhama2004@gmail.com** For Collaboration/Project or 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vansh.dhama004) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vansh-dhama-2ab786293/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Vansh417634) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vansh.dhama2004@gmail.com) 
 <!-- Snake Game Repo View -->
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+</div> -->
 
 
 # 💻 Tech Stack:
